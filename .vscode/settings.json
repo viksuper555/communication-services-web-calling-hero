@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9095352b-f1ab-4358-9739-2fa9f3ee0981/AppServices/subscriptions/9095352b-f1ab-4358-9739-2fa9f3ee0981/resourceGroups/doctor-system/providers/Microsoft.Web/sites/askadoc-video",
+    "appService.deploySubpath": "./Calling/dist"
+}

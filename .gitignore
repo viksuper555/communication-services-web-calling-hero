@@ -357,3 +357,4 @@ Calling/.vscode
 Calling/build/
 Server/.rush/temp/
 Server/.vscode/
+Server/appsettings.json
